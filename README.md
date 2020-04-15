@@ -31,7 +31,7 @@ Por último encontrarás un pequeño proyecto que se dejó en el curso de *Algeb
 
 ### Captura del programa :
 
- ![Operaciones con Matrices](imagenes/matriz.png)
+ ![Operaciones con Matrices](imagenes/matriz.PNG)
 
 
 > Si esto es de ayuda para ti no olvides compartirlo con los demás, después de todo lo que busco es ayudar.
