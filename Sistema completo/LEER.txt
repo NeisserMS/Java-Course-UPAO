@@ -1,0 +1,1 @@
+Crear una nueva base de datos con el nombre sistema y leugo arrastras el bloc de notas hacia ese nueva base de datos justo donde dice tablas y listo.
