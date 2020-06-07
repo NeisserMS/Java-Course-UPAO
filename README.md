@@ -38,6 +38,8 @@ Por último encontrarás un pequeño proyecto que se dejó en el curso de *Algeb
 
 > Si esto es de ayuda para ti no olvides compartirlo con los demás, después de todo lo que busco es ayudar. Buena suerte y si necesitas ayuda no dudes en escribirme.
 
+Apoya o visita mi perfil de Ko-fi para más ayuda :heart_eyes: :heart:
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01KIR7)
 
 
