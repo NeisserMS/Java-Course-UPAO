@@ -1,44 +1,47 @@
-# Ejercicios Resueltos de Programación (JAVA) <h1> 
-## Tabla de contenido: <h2>
+# Resolved Programming Exercises (JAVA) <h1> 
+## Table of Contents: <h2>
 
-* Fundamentos de programación l
-* Programación orientada a objetos
-* Estructura de datos
-* Proyecto de Algebra Lineal y Geometría Desripcitva (Matrices).
+* Programming Fundamentals l
+* Object-oriented Programming
+* Data structure
+* Linear Algebra and Desripcitva Geometry Project (Matrices)
 
-### Lo que encontrarás : <h3> 
-En *Fundamentos de programación l* se encuentra un archivo que contiene todo el **Proyecto Final** del curso.
+### What you will find: <h3> 
 
-### Captura del archivo con los códigos : 
+In * Programming Fundamentals * there is a file containing the entire ** Final Project ** of the course.
+
+### Capture of the file with the codes: 
 
  ![Fundamentos de Programación l](imagenes/programacion1.PNG)
 
-En *Programación Orientada a Objetos* se encuentra varios ejercicios resueltos para un mejor entendimiento. Además dentro de la carpeta se encuentra el **curso de POO** con todos los ejercicios resueltos de Laboratorio.
+In * Object Oriented Programming * you will find several exercises solved for a better understanding. Also inside the folder is the ** OOP ** course with all the exercises solved in the Laboratory.
 
-### Captura de la Carpeta :
+### Folder Capture:
 
  ![Programación orientada a objetos](imagenes/POO.PNG)
 
-En *Estructura de Datos* encontrarás todos los **ejercicios de Laboratorio resueltos.**
 
-### Captura de un ejercicio resuelto :
+In * Data Structure * you will find all ** solved Lab exercises. **
+
+### Capture a solved exercise:
 
  ![Estructura de datos](imagenes/esdal.PNG)
 
 
-Por último encontrarás un pequeño proyecto que se dejó en el curso de *Algebra Lineal y Geometría Descriptiva*, el cual es un pequeño software que resuelve **operaciones de Matrices.**
+
+Finally you will find a small project that was left in the course of * Linear Algebra and Descriptive Geometry *, which is a small software that solves ** Matrix operations. **
 
 
-### Captura del programa :
+### Capture the program :
 
  ![Operaciones con Matrices](imagenes/matriz.PNG)
 
 
-## También encontrarás en una carpeta un Libro de JAVA donde explica todo a detalle, puedes descargarlo.
+## You will also find a JAVA Book in a folder where it explains everything in detail, you can download it.
 
-> Si esto es de ayuda para ti no olvides compartirlo con los demás, después de todo lo que busco es ayudar. Buena suerte y si necesitas ayuda no dudes en escribirme.
+> If this is helpful for you, don't forget to share it with others, after all I'm looking to help. Good luck and if you need help do not hesitate to write to me.
 
-Apoya o visita mi perfil de Ko-fi para más ayuda :heart_eyes: :heart:
+Support or visit my Ko-fi profile for more help :heart_eyes: :heart:
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01KIR7)
 
